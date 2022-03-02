@@ -1,0 +1,25 @@
+body{
+			font-family: Geneva, Arial;
+			font-size: 16px;
+head1{
+	font-family: fantasy;
+			font-size: xx-large;
+}
+}
+th{
+	color: white;
+	background-color: darkblue;
+	border-width: 1px;
+	border-style: solid;
+	border-color: red;
+	font-size: 9pt;
+}
+
+td{
+	color: red;
+	background-color: white;
+	border-width: 1px;
+	border-style: solid;
+	border-color: blue;
+	font-size: 9pt;
+}
